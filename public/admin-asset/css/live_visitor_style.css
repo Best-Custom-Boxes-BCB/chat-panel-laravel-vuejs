@@ -1,0 +1,46 @@
+#card_alignment{
+    padding: 2rem;
+    justify-content: center;
+}
+#visitor_logo{
+    width: 30px;
+    background: green;
+    padding: 2px;
+}
+#visitor_data:hover{
+    background-color: aliceblue;
+}
+#exampleModal{
+    background-color: antiquewhite;
+}
+.modal-header{
+    background-color: black;
+}
+.modal-body{
+    background-color: #fffbed;
+}
+#message__area__background{
+    background-color: white;
+}
+#message___area{
+    height: 200px;
+    overflow-x: hidden;
+}
+#old_messages_area{
+    height: 400px;
+    overflow-x: hidden;
+}
+#name_title {
+    padding: 5px;
+    background-color: #ddd;
+}
+#msg {
+    padding: 4px;
+    background-color: #04AA6D;
+    color: white;
+}
+
+
+#msg_timestamp:hover{
+    display: none;
+}
